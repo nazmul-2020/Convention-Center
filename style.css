@@ -1,12 +1,16 @@
+/* Our package start */
 .pas-r{
     position: relative;
 }
+/* Our package end */
 .pos-ab{
     position:absolute;
     top: -12px;
     right: 23px;
     text-decoration: none;
 }
+/* footer start */
 footer{
     background-color: #0B0D17;
 }
+/* footer end */
